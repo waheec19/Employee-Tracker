@@ -1,0 +1,25 @@
+{
+  "name": "homework-12-employeetracker",
+  "version": "1.0.0",
+  "description": "creating interface that makes it easy for to view and interact with information stored in databases.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waheec19/Employee-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waheec19/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/waheec19/Employee-Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^8.2.0",
+    "inquirer": "^8.0.0",
+    "mysql": "^2.18.1"
+  }
+}
